@@ -1,0 +1,29 @@
+.Container{
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+    background-color: gray;
+    padding: 10px;
+    flex-wrap: wrap;
+    /* width: 950px; */
+}
+/* .SubContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+} */
+.Image1{
+    border-top-left-radius: 20px;
+}
+.Image2{
+    border-top-right-radius: 20px;
+}
+.Image3{
+    border-bottom-left-radius: 20px;
+}
+.Image4{
+    border-bottom-right-radius: 20px;
+}
+.Image{
+    width: 300px;
+}

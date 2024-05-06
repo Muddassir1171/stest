@@ -1,0 +1,16 @@
+.Container{
+    height: 400vw;
+    width: 100vw;
+    background-color: blue;
+}
+.Box{
+    width: 20vw;
+    height: 20vw;
+    margin: 5vw;
+    /* position: fixed; */
+    /* position: static; */
+    /* float: right; */
+    background-color: black;
+    text-transform: capitalize;
+    color: white;
+}

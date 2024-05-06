@@ -1,0 +1,42 @@
+.Container{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.Card{
+    padding: 50px;
+    width: 300px;
+    height: 400px;
+    background-color: #463a976c;
+    border-radius: 20px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.Exit{
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+    display: flex;
+    justify-content: end;
+}
+.Icon{
+    width: 100px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.Product_Name{
+    justify-content: start;
+    font-size: 50px;
+    font-weight: 700;
+    color: #423895;
+}
+.Add_More{
+    font-size: 25px;
+}
+.Card2{
+    background-color: #a55b4664;
+}
+.Product_Name_2{
+    color: #a45a48;
+}

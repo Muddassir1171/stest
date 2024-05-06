@@ -1,0 +1,28 @@
+.Container{
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* background-color: gray; */
+    /* justify-content: center; */
+    align-items: center;
+}
+.Image_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(-220deg,#1c98bc, #fe9495);
+}
+.Image{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+.Image1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
